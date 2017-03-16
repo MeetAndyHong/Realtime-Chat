@@ -1,6 +1,6 @@
 # Realtime Chat
 
-This is an example of how easy it is to create realtime chat with Socket.io
+This is an example of creating realtime chat with Socket.io.
 
 ## How to run it
 
