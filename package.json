@@ -1,5 +1,5 @@
 {
-  "name": "hong",
+  "name": "realtime-chat",
   "version": "1.0.0",
   "description": "A demo showing how to use socket.io for realtime interactions.",
   "main": "./server.js",
