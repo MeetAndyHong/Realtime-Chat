@@ -1,6 +1,6 @@
 {
-  "name": "socket.io-chat-demo",
-  "version": "0.0.1",
+  "name": "hong",
+  "version": "1.0.0",
   "description": "A demo showing how to use socket.io for realtime interactions.",
   "main": "./server.js",
   "scripts": {},
